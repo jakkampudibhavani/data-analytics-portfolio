@@ -10,6 +10,19 @@ high-risk conditions, state-level performance trends, and hospitals exceeding CM
 - Power BI
 - Excel
 
+### Project Workflow
+1. Explored and validated CMS HRRP data in Excel
+2. Cleaned and transformed data using SQL Server
+3. Performed exploratory analysis and validation in Python
+4. Built an interactive Power BI dashboard for insights and storytelling
+
+###  How to Run
+- SQL: Execute scripts in the `/sql` folder on SQL Server
+- Python: Run the Jupyter notebook in `/python`
+- Power BI: Open `HRRP_Dashboard.pbix` in Power BI Desktop
+
+
+
 ### Key Analyses
 - Condition-level excess readmission comparison
 - State-level performance vs CMS benchmark
@@ -24,3 +37,4 @@ high-risk conditions, state-level performance trends, and hospitals exceeding CM
 
 
 [HealthcareAnalytics.pdf](https://github.com/user-attachments/files/24778310/HealthcareAnalytics.pdf)
+
